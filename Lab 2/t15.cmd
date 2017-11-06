@@ -1,0 +1,1 @@
+type Nostromo.txt | Line2Words | findstr /v "[ae]" | findstr "n" | findstr /e "t" | lc
